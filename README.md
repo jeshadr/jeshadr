@@ -1,6 +1,6 @@
-# 💫 About Me:
+# About Me:
 Hi! Welcome to my GitHub profile 👋  
-I'm **Jeshad Rahman**, a senior Computer Science student at Arizona State University 🌵 with a passion for full-stack development, machine learning, and digital health tech.  
+I'm **Jeshad Rahman**, a senior Computer Science student at Arizona State University 🌵 with a passion for full-stack development, and AI/machine learning.  
 
 🔭 I’m currently working on **[Gestura – A Real Time Sign Language Translator](https://github.com/jeshadr/ASL-Translator)**  
 🌱 I’m currently learning **Database Management Systems & Query Optimization**  
