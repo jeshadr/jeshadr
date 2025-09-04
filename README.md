@@ -12,8 +12,8 @@ I'm **Jeshad Rahman**, a senior Computer Science student at Arizona State Univer
 ⭐ **Fav Project:** [Jeshadify – My personal developer portfolio inspired by Spotify](https://github.com/jeshadr/jeshad-portfolio)  
 
 ## 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=jeshadr&theme=material-palenight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeshadr&theme=material-palenight&hide_border=true&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=jeshadr&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeshadr&theme=dark&hide_border=true&layout=compact)
 
 ## 🌐 Connect With Me:
 <p align="center">
